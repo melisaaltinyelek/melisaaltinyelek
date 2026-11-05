@@ -1,4 +1,4 @@
-I'm Melisa and Junior AI Engineer living in Berlin.
+I'm Melisa and AI Engineer living in Berlin.
 
 #### Programming Languages
 
