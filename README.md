@@ -1,22 +1,26 @@
 I'm Melisa, an AI Engineer based in Berlin.
 
-#### Programming Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-5B7DB1?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-7B8FB8?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://flat.badgen.net/badge/Language/Python?label=&color=BDE0FE)
+![R](https://flat.badgen.net/badge/Language/R?label=&color=A2D2FF)
 
-#### Technical Skills
+### Technical Skills
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-B47BB5?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-9B75B8?style=for-the-badge&logo=keras&logoColor=white)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-8B80C8?style=for-the-badge&logo=openai&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-566A9B?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-B68A76?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-6489A8?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4C91A8?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5578A4?style=for-the-badge&logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-B77F71?style=for-the-badge&logo=postman&logoColor=white)
-![Microsoft Power Automate](https://img.shields.io/badge/Power_Automate-6B7FC4?style=for-the-badge&logoColor=white)
-![Microsoft Power BI](https://img.shields.io/badge/Power_BI-B59B65?style=for-the-badge&logo=powerbi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-A57985?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-646078?style=for-the-badge&logo=github&logoColor=white)
+![TensorFlow](https://flat.badgen.net/badge/AI/TensorFlow?label=&color=CDB4DB)
+![Keras](https://flat.badgen.net/badge/AI/Keras?label=&color=FFC8DD)
+![LLMs](https://flat.badgen.net/badge/AI/Large%20Language%20Models?label=&color=D8C4F1)
+![RAG](https://flat.badgen.net/badge/AI/Retrieval-Augmented%20Generation?label=&color=E4C1F9)
+![Prompt Engineering](https://flat.badgen.net/badge/AI/Prompt%20Engineering?label=&color=FFCAD4)
+![Scikit-Learn](https://flat.badgen.net/badge/ML/Scikit-Learn?label=&color=FFD6A5)
+![Pandas](https://flat.badgen.net/badge/Data/Pandas?label=&color=BDE0FE)
+![Matplotlib](https://flat.badgen.net/badge/Data/Matplotlib?label=&color=B8E0D2)
+![SQL](https://flat.badgen.net/badge/Data/SQL?label=&color=A2D2FF)
+![PostgreSQL](https://flat.badgen.net/badge/Data/PostgreSQL?label=&color=C1D3FE)
+![REST APIs](https://flat.badgen.net/badge/API/REST%20APIs?label=&color=B8E0D2)
+![Postman](https://flat.badgen.net/badge/API/Postman?label=&color=FFD6A5)
+![JSON](https://flat.badgen.net/badge/API/JSON?label=&color=D4E7C5)
+![Power Automate](https://flat.badgen.net/badge/Automation/Power%20Automate?label=&color=C1D3FE)
+![Power BI](https://flat.badgen.net/badge/Analytics/Power%20BI?label=&color=FDF0B2)
+![Git](https://flat.badgen.net/badge/Dev/Git?label=&color=FFCAD4)
+![GitHub](https://flat.badgen.net/badge/Dev/GitHub?label=&color=CDB4DB)
